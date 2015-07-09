@@ -1,9 +1,17 @@
 # nexus
 
-As a developer, I want to know how to download all existing records.
+As a developer, I need to know how to download all existing records.
 
-As a developer, I want to learn how to download a records that are within a specific date range.
+As a developer, I need to know how to download all records that are within a specific date range.
 
-As a Developer, I want to view the API source code.
+As a developer, I need to know how to download all records from a specific agency.
 
-As a Developer, I want to provide API feedback.
+As a developer, I need to know how to download all records that are categorized as awards.
+
+As a developer, I need to know how to download all records that are categorized as assistance/grants.
+
+As a developer, I need to know how to download all records that are categorized as loans.
+
+As a developer, I need to know how to download all records that are categorized as sub-awards.
+
+As a developer, I need to know when data was ingested into the database and from which source.
