@@ -1,4 +1,5 @@
-# nexus
+#### Developer Hub | User Stories
+
 As a developer, I want to view the API source code.
 
 As a developer, I want to provide API feedback, in order to improve the API.
@@ -40,3 +41,8 @@ As a developer, I need to know how to download all records that are categorized 
 As a developer, I need to know how to download all records that are categorized as loans.
 
 As a developer, I need to know how to download all records that are categorized as sub-awards.
+
+
+#### API Development | User Stories
+
+As a developer, I need to be able to specify the fields that I want returned, in order to get back only the data I require.
