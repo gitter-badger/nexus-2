@@ -11,6 +11,10 @@ As a developer, I want to know what the current version of the API is, in order 
 
 As a developer, I want to know the roadmap of the API's development, in order to align with my own product roadmap.
 
+As a developer, I need to be able to understand where the information I need can be found, in order to find the information I need quickly.
+
+As a developer, I need the developer hub to be 508 complient, in order to 
+
 As a developer, I want to see a listing of all available resources, in order to know what is available.
 
 As a developer, I want to see interactive examples of API usage, in order to understand how to use the API.
