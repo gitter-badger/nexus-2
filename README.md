@@ -1,5 +1,7 @@
 #### Developer Hub | User Stories
 
+[![Join the chat at https://gitter.im/cedwards-reisys/nexus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cedwards-reisys/nexus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 As a developer, I want to view the API source code.
 
 As a developer, I want to provide API feedback, in order to improve the API.
